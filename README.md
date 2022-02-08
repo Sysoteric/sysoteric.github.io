@@ -1,2 +1,2 @@
-# sysoteric.github.io
-Github page
+# 🌐 Sysoteric
+Hello everyone :)
