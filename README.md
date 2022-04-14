@@ -1,2 +1,0 @@
-# 🌐 Sysoteric
-Hello everyone :)
